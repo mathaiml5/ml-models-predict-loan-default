@@ -9,6 +9,7 @@
 - We then use the models to predict how many of the current loans will default and compare the predictions based on accuracy, precision,recall, F-stats and kappa
 
 ## Loan Dataset 
+### can be downloaded from Kaggle: [LendingClub Dataset](https://www.kaggle.com/wordsforthewise/lending-club)
 - Loan dataset with anonymized historical data on loans with ~150 features spread across loan types, payment data, and borrower characteristics 
 - To categorize borrowers based on borrowers attributes to understand the propensity to default E.g. credit history, delinquencies, public records, borrowers are assigned risk assessment grades (A-G based on credit score, delinquencies, public records etc.) by LendingClub
 - Loans are typically 3 year or 5 year terms
