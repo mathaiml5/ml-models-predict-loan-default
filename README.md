@@ -20,7 +20,7 @@
 - ML models coded in Python and run in Jupyterlab
 - NumPy, Pandas, Scikit-learn, PyCaret
 
-![Libraries](/images/libraries.png)
+![Libraries](libraries.png)
 
 ## Data Preparation
 - Dataset is “real-life” => noisy, and requiring review, cleanup and preparation before model building 
