@@ -66,6 +66,12 @@
 | MLP Classifier |	0.9492 |	0.9295 |	0.7093 |	0.9989 |	0.8295 |	0.8007 |
 | Random Forest Classifier |	0.9671	| 0.9495 |	0.8110	| 1.0000	| 0.8956	| 0.8763 |
 
+
+- Random Forest performs best: 
+  - Highest Accuracy
+  - Perfect precision (no False positives!)
+  - Lowest False Negative rate
+  - Best F1 Score and Kappa
 - Other models tried as experiments: Naive Bayes, AbaBoost, QDA, LDA, XGBoost, LightGBM, CatBoost
 
   
